@@ -112,8 +112,8 @@ Tanner Linsley • [@tannerlinsley](https://twitter.com/tannerlinsley)
 ## Progressive Rendering — Improve web application performance on slower networks
 Dinesh Pandiyan • [@flexdinesh](https://twitter.com/flexdinesh)
 
-🖼 https://www.icloud.com/keynote/01RnZigm2R6g9FwMXVQ8uwmKw#jsconf-hi
-📝 https://medium.com/the-thinkmill/progressive-rendering-the-key-to-faster-web-ebfbbece41a4
+🖼 https://www.icloud.com/keynote/01RnZigm2R6g9FwMXVQ8uwmKw#jsconf-hi  
+📝 https://medium.com/the-thinkmill/progressive-rendering-the-key-to-faster-web-ebfbbece41a4  
 ⚙️https://github.com/flexdinesh/progressive-rendering-react/tree/jsconf-demo
 
 ## TC39 Panel
