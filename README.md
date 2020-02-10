@@ -90,14 +90,14 @@ Max Goodhart • [@chromakode](https://twitter.com/chromakode)
 ## A Crash Course On Worker Threads
 Rich Trott • [@Trott](https://twitter.com/Trott)
 
-📝 https://medium.com/@Trott/using-worker-threads-in-node-js-80494136dbb6
-🎬 https://www.youtube.com/watch?v=wT4lg9oiMvI
+📝 https://medium.com/@Trott/using-worker-threads-in-node-js-80494136dbb6  
+🎬 https://www.youtube.com/watch?v=wT4lg9oiMvI  
 
 ## The Art of Code Comments
 Sarah Drasner • [@sarah_edo](https://twitter.com/sarah_edo)
 
-📝 https://css-tricks.com/the-art-of-comments/
-🎬 https://www.youtube.com/watch?v=byGswipSbo8
+📝 https://css-tricks.com/the-art-of-comments/  
+🎬 https://www.youtube.com/watch?v=byGswipSbo8  
 
 ## React, Vue, & Svelte as Teen Movie Archetypes
 Leta Keane • [@LetaCodes](https://twitter.com/LetaCodes)
