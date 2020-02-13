@@ -50,6 +50,7 @@ Mandy Michael • [@mandy_kerr](https://twitter.com/mandy_kerr)
 ## Impactful Accessibility - The Changes That Mean The Most
 Lindsey Dragun • [@techevangelista](https://twitter.com/techevangelista)
 
+🖼 https://docs.google.com/presentation/d/1XdnqnAhCQntSkmmGge6-Ibngo9Dl6J_ptOY9ZpnJ9lY/edit?usp=sharing
 📝 http://dragun.tech/jsconfhawaii/
 
 ## A Seat at the Table: Building Inclusive Ecosystems
@@ -65,7 +66,7 @@ Danae Valentina • [@tapia](https://twitter.com/tapia)
 ## Advanced Design System Considerations
 Alex Sexton • [@SlexAxton](https://twitter.com/SlexAxton)
 
-⛔️
+🖼 https://noti.st/slexaxton/6mnxbQ/advanced-design-systems-considerations
 
 ## Using Machine Learning To Improve UI/UX
 Milecia McGregor • [@FlippedCoding](https://twitter.com/FlippedCoding)
@@ -107,7 +108,7 @@ Leta Keane • [@LetaCodes](https://twitter.com/LetaCodes)
 ## Custom Hooks in React: The ultimate UI abstraction layer you're missing out on
 Tanner Linsley • [@tannerlinsley](https://twitter.com/tannerlinsley)
 
-⛔️
+🖼 https://slides.com/tannerlinsley/custom-hooks-in-react/fullscreen#/25
 
 ## Progressive Rendering — Improve web application performance on slower networks
 Dinesh Pandiyan • [@flexdinesh](https://twitter.com/flexdinesh)
